@@ -2,3 +2,5 @@ a.out
 asd1
 asd2
 .vscode
+*.cmi
+*.cmo

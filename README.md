@@ -18,6 +18,7 @@
 [] java \
 [] kotlin \
 [] D-lang \
+[] R \
 -jai ... \
 .... \
 ... \
