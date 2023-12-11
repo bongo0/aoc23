@@ -5,19 +5,19 @@
 [4] rust \
 [5] fortran \
 [6] fasm_linux_x86_64 \
-[] ocaml \
-[] haskell \
+[7] ocaml \
 [] Zig \
-[] bash \
 [] Go-lang \
-[] julia \
 [] Lua \
-[] scala \
-[] pascal \
 [] perl \
+[] D-lang \
+[] pascal \
+[] haskell \
+[] bash \
+[] julia \
+[] scala \
 [] java \
 [] kotlin \
-[] D-lang \
 [] R \
 -jai ... \
 .... \

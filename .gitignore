@@ -4,3 +4,4 @@ asd2
 .vscode
 *.cmi
 *.cmo
+*.o
