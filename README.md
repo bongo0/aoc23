@@ -6,8 +6,8 @@
 [5] fortran \
 [6] fasm_linux_x86_64 \
 [7] ocaml \
-[] Zig \
-[] Go-lang \
+[8] Zig \
+[9] Go-lang \
 [] Lua \
 [] perl \
 [] D-lang \
