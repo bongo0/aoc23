@@ -8,7 +8,7 @@
 [7] ocaml \
 [8] Zig \
 [9] Go-lang \
-[] Lua \
+[10] Lua \
 [] perl \
 [] D-lang \
 [] pascal \
