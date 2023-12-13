@@ -9,8 +9,8 @@
 [8] Zig \
 [9] Go-lang \
 [10] Lua \
+[11] D-lang \
 [] perl \
-[] D-lang \
 [] pascal \
 [] haskell \
 [] bash \
